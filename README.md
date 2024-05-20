@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Levani Mesxia</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
+<img align="center" alt="coding" width="1000" height="400" src="https://miro.medium.com/v2/resize:fit:996/0*sp42a5GmqT_VavSq.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levanimesxia23&label=Profile%20views&color=0e75b6&style=flat" alt="levanimesxia23" /> </p>
 
