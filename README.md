@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levanimesxia23&label=Profile%20views&color=0e75b6&style=flat" alt="levanimesxia23" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LevaniMesxia23" alt="LevaniMesxia23" /></a> </p>
+
 - 🌱 I’m currently learning **React.js, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LevaniMesxia23?tab=repositories](https://github.com/LevaniMesxia23?tab=repositories)
