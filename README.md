@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Express.js, MongoDB**
 
-- 👔 I’m currently working as a Frontend Developer at **Web Canvas** since October 2024.
-
 - 👨‍💻 All of my projects are available at [https://github.com/LevaniMesxia23?tab=repositories](https://github.com/LevaniMesxia23?tab=repositories)
 
 - 📫 How to reach me **https://www.linkedin.com/in/levani-mesxia-570803296/**
