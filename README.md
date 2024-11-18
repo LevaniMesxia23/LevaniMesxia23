@@ -64,9 +64,24 @@
   </a>
 </p>
 
+<div style="display: flex; flex-direction: column; align-items: center;">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=levanimesxia23&show_icons=true&locale=en&layout=compact" alt="levanimesxia23" height="200"/></p>
- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levanimesxia23&show_icons=true&locale=en" alt="levanimesxia23" height="200"/></p>
+  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 850px;">
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=levanimesxia23&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="400" />
+    </div>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=levanimesxia23&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400" />
+    </div>
+  </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levanimesxia23&" alt="levanimesxia23" height="200" /></p>
+
+  <div style="margin-top: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=levanimesxia23&theme=radical" alt="GitHub Streak" width="400" />
+  </div>
+</div>
+
+
+
+
+
