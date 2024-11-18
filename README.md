@@ -65,21 +65,16 @@
 </p>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-
-  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 850px;">
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=levanimesxia23&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="400" />
-    </div>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=levanimesxia23&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400" />
-    </div>
-  </div>
-
-
-  <div style="margin-top: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=levanimesxia23&theme=radical" alt="GitHub Streak" width="400" />
-  </div>
+  <!-- Top Row -->
+ <div style="display: flex; justify-content: space-between; width: 100%; max-width: 850px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=levanimesxia23&theme=radical" alt="GitHub Streak" width="400" height="167" />
+  <img src="https://github-readme-stats.vercel.app/api?username=levanimesxia23&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400"  />
 </div>
+
+
+
+</div>
+
 
 
 
