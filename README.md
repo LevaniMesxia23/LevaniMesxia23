@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levanimesxia23&label=Profile%20views&color=0e75b6&style=flat" alt="levanimesxia23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LevaniMesxia23" alt="LevaniMesxia23" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LevaniMesxia23&theme=radical" alt="LevaniMesxia23" /></a> </p>
 
 - 🌱 I’m currently learning **Express.js, MongoDB**
 
@@ -65,7 +65,6 @@
 </p>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <!-- Top Row -->
  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 850px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=levanimesxia23&theme=radical" alt="GitHub Streak" width="400" height="167" />
   <img src="https://github-readme-stats.vercel.app/api?username=levanimesxia23&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400"  />
