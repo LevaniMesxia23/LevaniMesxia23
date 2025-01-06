@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LevaniMesxia23&theme=radical" alt="LevaniMesxia23" /></a> </p>
  
-- 🌱 I’m currently learning **Express.js, MongoDB**
+- 🌱 I’m currently learning **Express.js, MongoDB** 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
