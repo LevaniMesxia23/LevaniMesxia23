@@ -6,7 +6,6 @@
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LevaniMesxia23&theme=radical" alt="LevaniMesxia23" /></a> </p>
   
-- 🌱 I’m currently learning **Express.js, MongoDB**  
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,figma,html,js,react,tailwind,bootstrap,typescript,express,redux,firebase,materialui,mongodb,nodejs,npm,styledcomponents,vite,vercel,stackoverflow,postman,supabase" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,redux,materialui,styledcomponents,vite,nodejs,express,postman,mongodb,supabase,firebase,vercel,git,figma,npm,stackoverflow" />
   </a>
 </p>
 
